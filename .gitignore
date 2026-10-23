@@ -1,0 +1,17 @@
+# Copia local de variables (la plantilla commiteada es infra/.env.example)
+infra/.env
+
+# Sistema operativo y editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+node_modules/
+Capitulo4/mi-dashboard.json
+Capitulo6/mi-dashboard.json
+Capitulo7/trabajo/
+Capitulo9/respaldo/
+Capitulo9/secretos/postgres
+
